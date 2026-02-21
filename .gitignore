@@ -1,0 +1,7 @@
+.zig-cache
+zig-out
+errors.log
+vendor/miniaudio/*
+!vendor/miniaudio/miniaudio.h
+!vendor/miniaudio/miniaudio.c
+
